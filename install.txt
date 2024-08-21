@@ -1,0 +1,10 @@
+$ npm doctor
+
+After running, we check the npm and node version
+We can use nvm for node version mangement
+
+$ yarn install
+
+After installing
+
+$ yarn start
